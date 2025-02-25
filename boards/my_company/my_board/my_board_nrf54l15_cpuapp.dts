@@ -79,6 +79,14 @@
 	status = "okay";
 };
 
+&gpiote20 {
+	status = "okay";
+};
+
+&gpiote30 {
+	status = "okay";
+};
+
 &pinctrl {
 	uart20_default: uart20_default {
 		group1 {
